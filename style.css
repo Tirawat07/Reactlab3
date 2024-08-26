@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+#root{
+    margin:50vh auto 50vh auto;
+    display: flex;
+    width: 600px;
+    height: fit-content;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(238, 233, 238);
+    align-items: center;
+    border-radius: 30px;
+}
+
